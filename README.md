@@ -4,7 +4,7 @@ Hey there! Welcome to **my** Metrics/Imperial Unit Converter. 🧙‍♂️✨
 
 Let's be real: trying to figure out how tall you are in feet to fill out an internet form, or figuring out how much a "gallon" of milk actually is can give anyone a headache. I built this handy little web app to solve that exact problem using the holy trinity of the internet: **HTML, CSS, and JavaScript**.
 
-As a [Scrimba student](https://scrimba.com/){target="blank"}, I'm currently diving deep into learning JavaScript, I built this project to be clean, simple, and—most importantly—easy to read. No scary, over-complicated frameworks here; just pure, honest code!
+As a [Scrimba student](https://scrimba.com/), I'm currently diving deep into learning JavaScript, I built this project to be clean, simple, and—most importantly—easy to read. No scary, over-complicated frameworks here; just pure, honest code!
 
 ---
 
@@ -31,6 +31,10 @@ As a [Scrimba student](https://scrimba.com/){target="blank"}, I'm currently divi
 
 ## 🚀 LIVE PREVIEW
 
+Click [here](https://unit-converter-crn.netlify.app/) to see it in action 😎😎
+
+![darkmode](image.png)
+![default](image-1.png)
 
 
 ---
@@ -55,4 +59,4 @@ To keep leveling up my coding skills, here are a few challenges I might tackle n
 
 ## 📝 License
 
-This project is from [Scrimba](https://scrimba.com/){target="blank"} where you can learn interactively with the videos. Feel free to look through my code, give me feedback, or use it to inspire your own projects! 🚀
+This project is from [Scrimba](https://scrimba.com/) where you can learn interactively with the videos. Feel free to look through my code, give me feedback, or use it to inspire your own projects! 🚀
