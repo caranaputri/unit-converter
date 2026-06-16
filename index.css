@@ -1,3 +1,12 @@
+/* html, body { 
+    margin: 0;
+    height: 100%; 
+    display: grid; 
+    place-content: center; 
+} */
+
+/* cek lagi */
+
 :root {
     /* light mode */
     --hero-bg: #6943FF;
@@ -58,13 +67,17 @@ body {
     font-family: 'Inter', sans-serif;
     display: flex;
     justify-content: center;
+    align-items: center;
     color: var(--main-bg);
 }
 
 .container {
+    margin-top: 0;
+    position: relative;
     width: 100%;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
 }
 
@@ -72,6 +85,7 @@ body {
     width: 100%;
     padding: 40px 40px; 
     background-color: var(--hero-bg);
+    /* justify-content: center; */
     align-items: center;
     display: flex;
     flex-direction: column;
