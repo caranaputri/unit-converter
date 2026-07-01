@@ -1,9 +1,7 @@
-/* html, body { 
+html, body { 
     margin: 0;
-    height: 100%; 
-    display: grid; 
-    place-content: center; 
-} */
+    min-height: fit-content;
+}
 
 /* cek lagi */
 
@@ -85,7 +83,7 @@ body {
     width: 100%;
     padding: 40px 40px; 
     background-color: var(--hero-bg);
-    /* justify-content: center; */
+    justify-content: center;
     align-items: center;
     display: flex;
     flex-direction: column;
